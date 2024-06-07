@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. Open the app on your device.
 2. Enter a keyword or phrase into the input field.
-3. Press the "Generate" button to create an image based on the input.
+3. Press the "Imaginate" button to create an image based on the input.
 
 ## Contributing
 
