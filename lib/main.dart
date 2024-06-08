@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:imaginate/feature/prompt/ui/create_prompt_screen.dart';
+import 'package:imaginate/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.dark,
         scaffoldBackgroundColor: Colors.grey.shade900,
       ),
-      home: CreatePromptScreen(),
+      home: const SplashScreen(),
     );
   }
 }
